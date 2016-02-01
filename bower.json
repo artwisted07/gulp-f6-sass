@@ -1,0 +1,22 @@
+{
+  "name": "packages",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Isidro Gallegos"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "velocity": "^1.2.3",
+    "foundation-sites": "^6.1.2"
+  }
+}
